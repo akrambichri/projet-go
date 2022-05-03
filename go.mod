@@ -1,4 +1,4 @@
-module github.com/mrlaowilly/devgo
+module github.com/akrambichri/devgo
 
 go 1.18
 

@@ -36,12 +36,12 @@ func IfElseIfElse() bool {
 }
 
 func SwitchCase() {
-	a := "Willy"
+	a := "Akram"
 
 	switch a {
-	case "Willy":
+	case "Akram":
 		fmt.Println("Hello", a)
-	case "Florent":
+	case "Anis":
 		fmt.Println("Hello", a)
 	default:
 		fmt.Println("Hello", "world")

@@ -2,7 +2,7 @@ package cours
 
 import (
 	"fmt"
-	"github.com/mrlaowilly/devgo/internal/fssync"
+	"github.com/akrambichri/devgo/internal/fssync"
 	"github.com/spf13/cobra"
 	"time"
 )

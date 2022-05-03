@@ -2,16 +2,16 @@ package main
 
 import (
 	//"fmt"
-	"github.com/mrlaowilly/devgo/cours"
-	//"github.com/mrlaowilly/devgo/internal/fssync"
+	"github.com/akrambichri/devgo/cours"
+	//"github.com/akrambichri/devgo/internal/fssync"
 	//"github.com/spf13/cobra"
 )
 
 func main() {
 	//fmt.Println("Hello World", cours.LeNomDeLaVariablePublic, cours.LeNomDeLaVariablePublicAvecValue)
-	//fmt.Println(cours.Hello("Willy"))
+	//fmt.Println(cours.Hello("Akram"))
 	cours.Mastercobra()
-	//u := cours.MakeUser("Willy")
+	//u := cours.MakeUser("Akram")
 	//u.Hello()
 	/*	var root = &cobra.Command{
 			Use:   "app [source] [target]",
